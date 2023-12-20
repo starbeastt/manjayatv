@@ -1,3 +1,61 @@
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="🇮🇩 LOKAL ID HD",TRANS 7 HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/623
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="🇮🇩 LOKAL ID HD",TRANS TV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/634
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="🇮🇩 LOKAL ID HD",INDOSIAR HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/621
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="🇮🇩 LOKAL ID HD",SCTV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/622
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="🇮🇩 LOKAL ID HD",RCTI HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/630
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="🇮🇩 LOKAL ID HD",MNC TV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/631
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="🇮🇩 LOKAL ID HD",GTV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/632
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="🇮🇩 LOKAL ID HD",iNEWS HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/633
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="🇮🇩 LOKAL ID HD",TV ONE HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/635
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="🇮🇩 LOKAL ID HD",ANTV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/636
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="🇮🇩 LOKAL ID HD",NET TV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/637
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.png" group-title="🇮🇩 LOKAL ID HD",METRO TV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/638
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.png" group-title="🇮🇩 LOKAL ID HD",KOMPAS TV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/639
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="🇮🇩 LOKAL ID HD",RTV HD
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/640
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/vtv.png" group-title="🇮🇩 LOKAL ID HD",VIVA TV
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11833
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/beritasatu.png" group-title="🇮🇩 LOKAL ID HD",BERITA SATU Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sindo_news.png" group-title="🇮🇩 LOKAL ID HD",SINDO NEWS Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.png" group-title="🇮🇩 LOKAL ID HD",CNN INDONESIA
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/40.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.png" group-title="🇮🇩 LOKAL ID HD",CNBC INDONESIA
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/41.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="🇮🇩 LOKAL ID HD",TVRI
+http://103.127.209.247:8080/movie/nvc247@home01/Wdk8VzyYTG/32.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="🇮🇩 LOKAL ID HD",JAK TV Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+
+============================================================================
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
