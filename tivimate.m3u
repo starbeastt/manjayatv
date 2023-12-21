@@ -51,17 +51,17 @@ http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/10
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ManjayaTV" tvg-url="",Indosiar 
 http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/9
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo.jpg" group-title="ManjayaTV",HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ManjayaTV",HBO HD
 http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/2
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/tvn.jpg" group-title="ManjayaTV",TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="ManjayaTV",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/tvn_movies.jpg" group-title="ManjayaTV",TVN Movies
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/107-1070871_tvn-movies-film.png" group-title="ManjayaTV",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
