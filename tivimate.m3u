@@ -43,7 +43,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ManjayaTV",Moji
-http://cheaptv.online:8080/stadnik2/7082341272/298550
+https://hometv.web.id/play.m3u8?id=moji
 
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="ManjayaTV" tvg-url="",SCTV 
 http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/10
