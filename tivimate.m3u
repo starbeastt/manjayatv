@@ -45,8 +45,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ManjayaTV",Moji
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
-#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="ManjayaTV" tvg-url="",SCTV 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:-1 tvg-id="SCTV" group-title="ManjayaTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
+#EXTVLCOPT:http-referrer=https://indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://apiv2.my.id/x/usi/index.m3u8?id=sctv&token=kbOt6uOSeC
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ManjayaTV" tvg-url="",Indosiar 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
