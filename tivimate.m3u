@@ -53,7 +53,7 @@ https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+https://etslive-2-vidio-com.akamaized.net/exp=1710258091~acl=/hls-p/ingest_204_*/*~hmac=1973a2548c454dacb66e162bddde0710aaa457e7adfa046d61995aab57e10871/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ManjayaTV" tvg-url="",Indosiar 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
