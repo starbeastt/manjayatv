@@ -53,11 +53,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/23
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="ManjayaTV" ,SCTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/95
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ManjayaTV" tvg-url="",Indosiar 
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ManjayaTV" tvg-url="",INDOSIAR 
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/94
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="ManjayaTV",HBO HD
 http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/2
