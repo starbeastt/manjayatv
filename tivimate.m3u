@@ -123,7 +123,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/440px-Aniplus_logo.svg.png" group-title="ManjayaTV",ANIPLUS
-http://103.150.117.215:25461/jimbaran@215/Wdk8VzyYTG/11803
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11803
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
