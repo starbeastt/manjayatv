@@ -59,7 +59,9 @@ http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/95
 http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/94
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="ManjayaTV",HBO HD
-http://103.127.209.247:8080/nvc247@jimbaran01/Wdk8VzyYTG/2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+http://103.127.209.247:8080/movie/247@v2old/M0js5Y5vVA/664.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1280px-TvOne_2023.svg.png" group-title="ManjayaTV",TV ONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
