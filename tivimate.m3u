@@ -6,16 +6,13 @@
 http://tvnid.wapgem.com/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE STREAM EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://santai90.000webhostapp.com/hexkey/aff_u16.php
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7chttps://m.vidio.com/
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#EXTINF:-1 group-title="ManjayaTV" tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png",(A)IDN VS SGP
+http://tvnid.wapgem.com/moji.m3u8
+
+#EXTINF:-1 group-title="ManjayaTV" tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png",(A)LIVE STREAM EVENT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 http://tvnid.wapgem.com/player/coppa.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="ManjayaTV",RCTI
