@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://tvnid.x10.mx/playlist/streaming1.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1720178164~acl=/live/17252/*~id=149346192~hmac=dc30d26ae85717a29d7d23cbdde0c3413ac2e26da8eb717a29d7d23cbdde0c3413ac2e26da8ebec71520d06ea971fb1d0
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE EURO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
