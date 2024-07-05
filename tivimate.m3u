@@ -1,10 +1,17 @@
 ================================================================STREAMING===========================================================================
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE STREAM EVENT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming1.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE STREAM EVENT 2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE EURO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://astroo-cors-lim.kolorsempak.workers.dev/dash-wv/linear/5148/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="ManjayaTV",(A)LIVE COPA
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://38.47.189.12:9197/stream/sports/assp4/stream.m3u8?uid=1666115753&u=admin&p=f67027307add643089e49c5dfa231edca0dad40f216061c28647319ea3e94af7
 
